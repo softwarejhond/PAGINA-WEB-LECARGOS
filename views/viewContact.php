@@ -4,7 +4,7 @@
             <div class="col-lg-4 col-md-5 offset-md-1">
                 <div class="heading_container">
                     <h2>
-                        Contact Us
+                        Contactanos
                     </h2>
                 </div>
             </div>
@@ -27,7 +27,7 @@
                         </div>
                         <div class="btn_box">
                             <button>
-                                SEND
+                                ENVIAR
                             </button>
                         </div>
                     </form>

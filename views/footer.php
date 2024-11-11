@@ -58,29 +58,22 @@
               Links
             </h4>
             <div class="info_links">
-              <a class="active" href="index.php">
-                Home
-              </a>
-              <a class="" href="about.php">
-                About
-              </a>
-              <a class="" href="service.php">
-                Services
-              </a>
-              <a class="" href="contact.php">
-                <span>Contact Us</span>
+              <a class="active" href="index.php">Inicio</a>
+              <a class="" href="about.php">Nosotros</a>
+              <a class="" href="service.php">Servicios</a>
+              <a class="" href="contact.php"><span>Contacto</span>
               </a>
             </div>
           </div>
         </div>
         <div class="col-md-6 col-lg-3 info_col ">
           <h4>
-            Subscribe
+            Subscribirse
           </h4>
           <form action="#">
             <input type="text" placeholder="Enter email" />
             <button type="submit">
-              Subscribe
+            Subscribirse
             </button>
           </form>
         </div>

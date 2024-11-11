@@ -3,10 +3,10 @@
         <div class="container ">
             <div class="heading_container">
                 <h2>
-                    Our <span>Services</span>
+                    Nuestros <span>Services</span>
                 </h2>
                 <p>
-                    There are many variations of passages of Lorem Ipsum available, but the majority have suffered alteration
+                    Ajustamos su operación a la necesidad del cliente, diseñando programas como flotas dedicadas, frecuencias fijas, corredores de carga, cross-docking.
                 </p>
             </div>
             <div class="row">
@@ -17,16 +17,13 @@
                         </div>
                         <div class="detail-box">
                             <h5>
-                                Air Transport
+                                Transporte masivo y semimasivo a nivel nacional.
                             </h5>
                             <p>
                                 fact that a reader will be distracted by the readable content of a page when looking at its layout.
                                 The
                                 point of using
                             </p>
-                            <a href="">
-                                Read More
-                            </a>
                         </div>
                     </div>
                 </div>
@@ -37,16 +34,13 @@
                         </div>
                         <div class="detail-box">
                             <h5>
-                                Cargo Transport
+                                Transporte de carga por importación y exportación.
                             </h5>
                             <p>
                                 fact that a reader will be distracted by the readable content of a page when looking at its layout.
                                 The
                                 point of using
                             </p>
-                            <a href="">
-                                Read More
-                            </a>
                         </div>
                     </div>
                 </div>
@@ -57,16 +51,13 @@
                         </div>
                         <div class="detail-box">
                             <h5>
-                                Trucks Transport
+                                Distribución urbana
                             </h5>
                             <p>
                                 fact that a reader will be distracted by the readable content of a page when looking at its layout.
                                 The
                                 point of using
                             </p>
-                            <a href="">
-                                Read More
-                            </a>
                         </div>
                     </div>
                 </div>
@@ -77,16 +68,13 @@
                         </div>
                         <div class="detail-box">
                             <h5>
-                                Train Transport
+                                Administración de flotas
                             </h5>
                             <p>
                                 fact that a reader will be distracted by the readable content of a page when looking at its layout.
                                 The
                                 point of using
                             </p>
-                            <a href="">
-                                Read More
-                            </a>
                         </div>
                     </div>
                 </div>
