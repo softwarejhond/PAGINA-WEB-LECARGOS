@@ -23,11 +23,13 @@ include './controllers/head.php';
                 <div class="col-md-7 ">
                   <div class="detail-box">
                     <h1>
-                      We Provide best <br>
-                      Transport Service
+                      Tenemos el Mejor <br>
+                      Servicio de Transporte
                     </h1>
                     <p>
-                      Lorem ipsum dolor sit amet consectetur, adipisicing elit. Eum magnam, voluptates distinctio, officia architecto tenetur debitis hic aspernatur libero commodi atque fugit adipisci, blanditiis quidem dolorum odit voluptas? Voluptate, eveniet?
+                      Contamos con una moderna y versátil flota de transporte fidelizada en el país que asciende hasta 150 unidades en todas sus configuraciones.<br>
+                      Tenemos una flota propia que nos respalda la capacidad de respuesta de acuerdo al lugar de requerimiento, realizamos seguimiento y trazabilidad en la prestación del servicio.
+
                     </p>
                     <div class="btn-box">
                       <a href="" class="btn1">
@@ -45,33 +47,12 @@ include './controllers/head.php';
                 <div class="col-md-7 ">
                   <div class="detail-box">
                     <h1>
-                      We Provide best <br>
-                      Transport Service
+                      NuestraTrayectoria
                     </h1>
                     <p>
-                      Lorem ipsum dolor sit amet consectetur, adipisicing elit. Eum magnam, voluptates distinctio, officia architecto tenetur debitis hic aspernatur libero commodi atque fugit adipisci, blanditiis quidem dolorum odit voluptas? Voluptate, eveniet?
-                    </p>
-                    <div class="btn-box">
-                      <a href="" class="btn1">
-                        Get A Quote
-                      </a>
-                    </div>
-                  </div>
-                </div>
-              </div>
-            </div>
-          </div>
-          <div class="carousel-item">
-            <div class="container ">
-              <div class="row">
-                <div class="col-md-7 ">
-                  <div class="detail-box">
-                    <h1>
-                      We Provide best <br>
-                      Transport Service
-                    </h1>
-                    <p>
-                      Lorem ipsum dolor sit amet consectetur, adipisicing elit. Eum magnam, voluptates distinctio, officia architecto tenetur debitis hic aspernatur libero commodi atque fugit adipisci, blanditiis quidem dolorum odit voluptas? Voluptate, eveniet?
+                    	Contamos con una larga trayectoria en el sector del transporte. Somos confiables, por tener una alta cobertura, trayectoria y respaldo de nuestra compañía de seguros.<br>
+                      Contamos con respaldo y oportunidad con apoyo de alianzas estratégicas. 
+
                     </p>
                     <div class="btn-box">
                       <a href="" class="btn1">
@@ -87,7 +68,7 @@ include './controllers/head.php';
         <ol class="carousel-indicators">
           <li data-target="#customCarousel1" data-slide-to="0" class="active"></li>
           <li data-target="#customCarousel1" data-slide-to="1"></li>
-          <li data-target="#customCarousel1" data-slide-to="2"></li>
+          <!-- <li data-target="#customCarousel1" data-slide-to="2"></li> -->
         </ol>
       </div>
       
@@ -107,14 +88,11 @@ include './controllers/head.php';
           <div class="detail-box">
             <div class="heading_container">
               <h2>
-                About <span>Us</span>
+                Acerda de <span>Nosotros</span>
               </h2>
             </div>
             <p>
-              There are many variations of passages of Lorem Ipsum available, but the majority have suffered alteration
-              in some form, by injected humour, or randomised words which don't look even slightly believable. If you
-              are going to use a passage of Lorem Ipsum, you need to be sure there isn't anything embarrassing hidden in
-              the middle of text. All
+              La experiencia y trayectoria de sus socios con más de 20 años en el mercado, permite implementar nuevas tendencias y estrategias innovadoras en los procesos de abastecimiento, transporte y distribución; para atender las diferentes necesidades, de una manera eficiente y cómoda en beneficio de nuestros clientes
             </p>
             <a href="about.php">
               Read More
