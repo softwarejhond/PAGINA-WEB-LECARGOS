@@ -9,19 +9,19 @@ $current_page = basename($_SERVER['PHP_SELF']);
                 <a href="">
                     <i class="fa fa-phone" aria-hidden="true"></i>
                     <span>
-                        Call : +01 123455678990
+                        Llamar : +57 123455678990
                     </span>
                 </a>
                 <a href="">
                     <i class="fa fa-envelope" aria-hidden="true"></i>
                     <span>
-                        Email : demo@gmail.com
+                        Email : sistemaslecargo@gmail.com
                     </span>
                 </a>
-                <a href="">
+                <a href="contact.php">
                     <i class="fa fa-map-marker" aria-hidden="true"></i>
                     <span>
-                        Location
+                        Ubicación
                     </span>
                 </a>
             </div>

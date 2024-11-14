@@ -1,4 +1,9 @@
 @import url("https://fonts.googleapis.com/css2?family=Lato:wght@400;700&family=Open+Sans:wght@300;400;600;700&display=swap");
+:root{
+  --color-primary: #262B5C;
+  --color-secundary: #E66322;
+  --color-hover: #a33b06;
+}
 body {
   font-family: 'Open Sans', sans-serif;
   color: #0c0c0c;
@@ -53,7 +58,8 @@ img{
 }
 
 .heading_container h2 span {
-  color: #0a97b0;
+  /* color: #0a97b0; */
+  color: var(--color-secundary);
 }
 
 .heading_container p {
@@ -111,7 +117,7 @@ a:focus {
 
 .header_section .header_top {
   padding: 15px 0;
-  background-color: #04233b;
+  background-color: var(--color-primary);
 }
 
 .header_section .header_top .contact_nav {
@@ -146,11 +152,11 @@ a:focus {
   -webkit-box-align: center;
       -ms-flex-align: center;
           align-items: center;
-  color: #0a97b0;
+  color: var(--color-secundary);
 }
 
 .header_section .header_top .contact_nav a:hover i {
-  color: #04233b;
+  color: var(--color-hover);
 }
 
 .header_section .header_bottom {
@@ -193,7 +199,7 @@ a:focus {
 }
 
 .custom_nav-container .navbar-nav .nav-item:hover .nav-link, .custom_nav-container .navbar-nav .nav-item.active .nav-link {
-  color: #0a97b0;
+  color: var(--color-secundary);
 }
 
 .custom_nav-container .nav_search-btn {
@@ -347,7 +353,7 @@ a:focus {
 }
 
 .slider_section .detail-box {
-  color: #04233b;
+  color: var(--color-primary);
 }
 
 .slider_section .detail-box h1 {
@@ -379,7 +385,7 @@ a:focus {
 .slider_section .detail-box .btn-box .btn1 {
   display: inline-block;
   padding: 10px 15px;
-  background-color: #0a97b0;
+  background-color: var(--color-secundary);
   color: #ffffff;
   border-radius: 0;
   -webkit-transition: all .3s;
@@ -388,7 +394,7 @@ a:focus {
 }
 
 .slider_section .detail-box .btn-box .btn1:hover {
-  background-color: #065968;
+  background-color: var(--color-hover);
 }
 
 .slider_section .detail-box .btn-box .btn2 {
@@ -429,7 +435,7 @@ a:focus {
 .slider_section .carousel-indicators li.active {
   width: 20px;
   height: 20px;
-  background-color: #0a97b0;
+  background-color: var(--color-secundary);
 }
 
 .service_section {
@@ -475,12 +481,12 @@ a:focus {
 }
 
 .service_section .box .detail-box a {
-  color: #04233b;
+  color:var(--color-primary);
   font-weight: 600;
 }
 
 .service_section .box .detail-box a:hover {
-  color: #0a97b0;
+  color: var(--color-secundary);
 }
 
 .about_section .row {
@@ -505,7 +511,7 @@ a:focus {
   top: 50%;
   width: 45px;
   height: 70%;
-  background-color: #04233b;
+  background-color: var(--color-primary);
   z-index: 3;
 }
 
@@ -531,7 +537,7 @@ a:focus {
 .about_section .detail-box a {
   display: inline-block;
   padding: 10px 45px;
-  background-color: #0a97b0;
+  background-color: var(--color-secundary);
   color: #ffffff;
   border-radius: 0px;
   -webkit-transition: all .3s;
@@ -541,7 +547,7 @@ a:focus {
 }
 
 .about_section .detail-box a:hover {
-  background-color: #065968;
+  background-color: var(--color-hover);
 }
 
 .track_section {
@@ -630,7 +636,7 @@ a:focus {
           flex: 1;
   display: inline-block;
   padding: 9px 30px;
-  background-color: #0a97b0;
+  background-color: var(--color-secundary);
   color: #ffffff;
   border-radius: 0;
   -webkit-transition: all .3s;
@@ -641,7 +647,7 @@ a:focus {
 }
 
 .track_section form button:hover {
-  background-color: #065968;
+  background-color: var(--color-hover);
 }
 
 .client_section .client_container {
@@ -658,12 +664,15 @@ a:focus {
       -ms-flex-direction: column;
           flex-direction: column;
   margin-right: 5px;
+  align-items: center;
 }
 
 .client_section .box .detail-box {
-  border: 1px solid #dddddd;
-  padding: 25px;
-  margin-bottom: 25px;
+  width: 300px;
+  height: 100px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
 }
 
 .client_section .box .client_id {
@@ -714,27 +723,28 @@ a:focus {
   position: absolute;
   right: -15%;
   outline: none;
-  background-color: #0a97b0;
+  background-color: var(--color-secundary);
 }
 
 .client_section .owl-carousel .owl-nav .owl-prev:hover,
 .client_section .owl-carousel .owl-nav .owl-next:hover {
-  background-color: #161825;
+  background-color: var(--color-hover);
 }
 
 .client_section .owl-carousel .owl-nav .owl-prev {
-  top: 25%;
+  top: -4%;
   background-image: url(../images/prev.png);
 }
 
 .client_section .owl-carousel .owl-nav .owl-next {
-  top: calc(25% + 65px);
+  top: calc(-4% + 60px);
   background-image: url(../images/next.png);
 }
 
 .contact_section {
   position: relative;
   padding-bottom: 90px;
+  box-shadow: 0px 3px 6px gray;
 }
 
 .contact_section .heading_container {
@@ -762,19 +772,19 @@ a:focus {
 }
 
 .contact_section .form_container input::-webkit-input-placeholder {
-  color: #04233b;
+  color: var(--color-primary);
 }
 
 .contact_section .form_container input:-ms-input-placeholder {
-  color: #04233b;
+  color: var(--color-primary);
 }
 
 .contact_section .form_container input::-ms-input-placeholder {
-  color: #04233b;
+  color: var(--color-primary);
 }
 
 .contact_section .form_container input::placeholder {
-  color: #04233b;
+  color: var(--color-primary);
 }
 
 .contact_section .form_container input.message-box {
@@ -786,7 +796,7 @@ a:focus {
   text-transform: uppercase;
   display: inline-block;
   padding: 12px 55px;
-  background-color: #0a97b0;
+  background-color: var(--color-secundary);
   color: #ffffff;
   border-radius: 5px;
   -webkit-transition: all .3s;
@@ -795,7 +805,7 @@ a:focus {
 }
 
 .contact_section .form_container button:hover {
-  background-color: #065968;
+  background-color: var(--color-hover);
 }
 
 .contact_section .map_container {
@@ -822,9 +832,11 @@ a:focus {
 }
 
 .info_section {
-  background-color: #04233b;
+  background-color: var(--color-primary);
   color: #ffffff;
   padding: 45px 0 15px 0;
+  position: relative;
+  z-index: 1;
 }
 
 .info_section h4 {
@@ -856,7 +868,7 @@ a:focus {
 }
 
 .info_section .info_contact .contact_link_box a:hover {
-  color: #0a97b0;
+  color: var(--color-secundary);
 }
 
 .info_section .info_social {
@@ -884,7 +896,7 @@ a:focus {
 }
 
 .info_section .info_social a:hover {
-  color: #0a97b0;
+  color: var(--color-secundary);
 }
 
 .info_section .info_links {
@@ -911,7 +923,7 @@ a:focus {
 }
 
 .info_section .info_links a:hover {
-  color: #0a97b0;
+  color: var(--color-secundary);
 }
 
 .info_section form input {
@@ -945,7 +957,7 @@ a:focus {
   text-align: center;
   display: inline-block;
   padding: 10px 55px;
-  background-color: #0a97b0;
+  background-color: var(--color-secundary);
   color: #ffffff;
   border-radius: 0;
   -webkit-transition: all .3s;
@@ -955,7 +967,7 @@ a:focus {
 }
 
 .info_section form button:hover {
-  background-color: #065968;
+  background-color: var(--color-hover);
 }
 
 /* footer section*/
@@ -966,7 +978,7 @@ a:focus {
 }
 
 .footer_section p {
-  color: #04233b;
+  color: var(--color-primary);
   padding: 25px 0;
   margin: 0;
 }

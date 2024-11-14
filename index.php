@@ -122,19 +122,12 @@ include './controllers/head.php';
         <div class="col-md-6">
           <div class="heading_container">
             <h2>
-              Track Your Shipment
+              Nuestra Politica
             </h2>
           </div>
           <p>
-            Iste reprehenderit maiores facilis saepe cumque molestias. Labore iusto excepturi, laborum aliquid pariatur veritatis autem, mollitia sint nesciunt hic error porro.
-            Deserunt officia unde repellat beatae ipsum sed. Aperiam tempora consectetur voluptas magnam maxime asperiores quas similique repudiandae, veritatis reiciendis harum fuga atque.
+            Para garantizar un servicio seguro, oportuno y confiable dirigimos como organización todas nuestras actuaciones para ser aliados estratégicos de nuestros clientes en pro de su satisfacción y fidelización.
           </p>
-          <form action="">
-            <input type="text" placeholder="Enter Your Tracking Number" />
-            <button type="submit">
-              Track
-            </button>
-          </form>
         </div>
       </div>
     </div>
@@ -148,7 +141,7 @@ include './controllers/head.php';
     <div class="container">
       <div class="heading_container">
         <h2>
-          What Says Our <span>Client</span>
+          Algunos de Nuestros <span>Clientes</span>
         </h2>
       </div>
       <div class="client_container">
@@ -157,88 +150,56 @@ include './controllers/head.php';
             <div class="item">
               <div class="box">
                 <div class="detail-box">
-                  <p>
-                    Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim
-                  </p>
-                </div>
-                <div class="client_id">
-                  <div class="img-box">
-                    <img src="images/client-1.png" alt="" class="img-1">
-                  </div>
-                  <div class="name">
-                    <h6>
-                      Adipiscing
-                    </h6>
-                    <p>
-                      Magna
-                    </p>
-                  </div>
+                  <img src="images/logosClientes/colrecicladora.png" alt="">
                 </div>
               </div>
             </div>
             <div class="item">
               <div class="box">
                 <div class="detail-box">
-                  <p>
-                    Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim
-                  </p>
-                </div>
-                <div class="client_id">
-                  <div class="img-box">
-                    <img src="images/client-2.png" alt="" class="img-1">
-                  </div>
-                  <div class="name">
-                    <h6>
-                      Adipiscing
-                    </h6>
-                    <p>
-                      Magna
-                    </p>
-                  </div>
+                  <img src="images/logosClientes/ecoplanet.png" alt="">
                 </div>
               </div>
             </div>
             <div class="item">
               <div class="box">
                 <div class="detail-box">
-                  <p>
-                    Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim
-                  </p>
-                </div>
-                <div class="client_id">
-                  <div class="img-box">
-                    <img src="images/client-1.png" alt="" class="img-1">
-                  </div>
-                  <div class="name">
-                    <h6>
-                      Adipiscing
-                    </h6>
-                    <p>
-                      Magna
-                    </p>
-                  </div>
+                  <img src="images/logosClientes/likanto.png" alt="">
                 </div>
               </div>
             </div>
             <div class="item">
               <div class="box">
                 <div class="detail-box">
-                  <p>
-                    Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim
-                  </p>
+                  <img src="images/logosClientes/centroaceros.png" alt="">
                 </div>
-                <div class="client_id">
-                  <div class="img-box">
-                    <img src="images/client-2.png" alt="" class="img-1">
-                  </div>
-                  <div class="name">
-                    <h6>
-                      Adipiscing
-                    </h6>
-                    <p>
-                      Magna
-                    </p>
-                  </div>
+              </div>
+            </div>
+            <div class="item">
+              <div class="box">
+                <div class="detail-box">
+                  <img src="images/logosClientes/sidoc.png" alt="">
+                </div>
+              </div>
+            </div>
+            <div class="item">
+              <div class="box">
+                <div class="detail-box">
+                  <img src="images/logosClientes/suppla.png" alt="">
+                </div>
+              </div>
+            </div>
+            <div class="item">
+              <div class="box">
+                <div class="detail-box">
+                  <img src="images/logosClientes/minerales_industriales.png" alt="">
+                </div>
+              </div>
+            </div>
+            <div class="item">
+              <div class="box">
+                <div class="detail-box">
+                  <img src="images/logosClientes/rimoplasticas.png" alt="" style="width: 100px; height:100%" >
                 </div>
               </div>
             </div>
