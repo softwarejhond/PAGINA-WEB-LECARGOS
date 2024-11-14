@@ -9,19 +9,19 @@ $current_page = basename($_SERVER['PHP_SELF']);
                 <a href="">
                     <i class="fa fa-phone" aria-hidden="true"></i>
                     <span>
-                        Call : +01 123455678990
+                        Llamar : +57 123455678990
                     </span>
                 </a>
                 <a href="">
                     <i class="fa fa-envelope" aria-hidden="true"></i>
                     <span>
-                        Email : demo@gmail.com
+                        Email : sistemaslecargo@gmail.com
                     </span>
                 </a>
-                <a href="">
+                <a href="contact.php">
                     <i class="fa fa-map-marker" aria-hidden="true"></i>
                     <span>
-                        Location
+                        Ubicación
                     </span>
                 </a>
             </div>
@@ -43,16 +43,16 @@ $current_page = basename($_SERVER['PHP_SELF']);
                 <div class="collapse navbar-collapse" id="navbarSupportedContent">
                     <ul class="navbar-nav  ">
                         <li class="nav-item <?php echo ($current_page == 'index.php') ? 'active' : ''; ?>">
-                            <a class="nav-link" href="index.php">Home</a>
+                            <a class="nav-link" href="index.php">Inicio</a>
                         </li>
                         <li class="nav-item <?php echo ($current_page == 'service.php') ? 'active' : ''; ?>">
-                            <a class="nav-link" href="service.php">Services</a>
+                            <a class="nav-link" href="service.php">Servicios</a>
                         </li>
                         <li class="nav-item <?php echo ($current_page == 'about.php') ? 'active' : ''; ?>">
-                            <a class="nav-link" href="about.php"> About</a>
+                            <a class="nav-link" href="about.php">Nosotros</a>
                         </li>
                         <li class="nav-item <?php echo ($current_page == 'contact.php') ? 'active' : ''; ?>">
-                            <a class="nav-link" href="contact.php">Contact Us</a>
+                            <a class="nav-link" href="contact.php">Contacto</a>
                         </li>
                     </ul>
                 </div>

@@ -4,25 +4,25 @@
         <div class="col-md-6 col-lg-3 info_col">
           <div class="info_contact">
             <h4>
-              Address
+              Direcciones
             </h4>
             <div class="contact_link_box">
               <a href="">
                 <i class="fa fa-map-marker" aria-hidden="true"></i>
                 <span>
-                  Location
+                  Ubicación
                 </span>
               </a>
               <a href="">
                 <i class="fa fa-phone" aria-hidden="true"></i>
                 <span>
-                  Call +01 1234567890
+                  +57 1234567890
                 </span>
               </a>
               <a href="">
                 <i class="fa fa-envelope" aria-hidden="true"></i>
                 <span>
-                  demo@gmail.com
+                  sistemaslecargo@gmail.com
                 </span>
               </a>
             </div>
@@ -45,10 +45,10 @@
         <div class="col-md-6 col-lg-3 info_col">
           <div class="info_detail">
             <h4>
-              Info
+              Información
             </h4>
             <p>
-              necessary, making this the first true generator on the Internet. It uses a dictionary of over 200 Latin words, combined with a handful
+              Contamos experiencia logística y recursos humanos capacitados adecuadamente para la prestación del servicio, cuentamos con un parque automotor fidelizado en todas las modalidades y capacidades.
             </p>
           </div>
         </div>
@@ -58,29 +58,23 @@
               Links
             </h4>
             <div class="info_links">
-              <a class="active" href="index.php">
-                Home
-              </a>
-              <a class="" href="about.php">
-                About
-              </a>
-              <a class="" href="service.php">
-                Services
-              </a>
-              <a class="" href="contact.php">
-                <span>Contact Us</span>
+              <a href="index.php">Inicio</a>
+              <a href="about.php">Nosotros</a>
+              <a href="service.php">Servicios</a>
+              <a href="contact.php"><span>Contacto</span>
+              <a href="politicas.php"><span>Políticas Internas</span>
               </a>
             </div>
           </div>
         </div>
         <div class="col-md-6 col-lg-3 info_col ">
           <h4>
-            Subscribe
+            Subscribirse
           </h4>
           <form action="#">
             <input type="text" placeholder="Enter email" />
             <button type="submit">
-              Subscribe
+            Subscribirse
             </button>
           </form>
         </div>
