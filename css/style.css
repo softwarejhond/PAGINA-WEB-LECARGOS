@@ -464,13 +464,13 @@ a:focus {
   display: -ms-flexbox;
   display: flex;
   -webkit-box-pack: center;
-      -ms-flex-pack: center;
-          justify-content: center;
+  -ms-flex-pack: center;
+  justify-content: center;
   -webkit-box-align: start;
-      -ms-flex-align: start;
-          align-items: flex-start;
+  -ms-flex-align: start;
+  align-items: flex-start;
+  max-width: 75px;
   width: 125px;
-  min-width: 75px;
   height: 75px;
   margin-right: 25px;
 }
@@ -1028,4 +1028,10 @@ a:focus {
 .button-floating a{
   text-decoration: none;
   color: white;
+}
+@media (max-width: 500px) {
+  .button-floating{
+    bottom: 20px;
+    right: 20px;
+  }
 }

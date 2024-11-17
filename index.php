@@ -99,7 +99,7 @@ include './controllers/head.php';
         </div>
         <div class="col-md-6 ">
           <div class="img-box">
-            <img src="images/about-img.jpg" alt="">
+            <img src="images/about-img.png" alt="">
           </div>
         </div>
 
@@ -160,7 +160,7 @@ include './controllers/head.php';
             <div class="item">
               <div class="box">
                 <div class="detail-box">
-                  <img src="images/logosClientes/likanto.png" alt="">
+                  <img src="images/logosClientes/lukanto.png" alt="">
                 </div>
               </div>
             </div>
@@ -168,6 +168,13 @@ include './controllers/head.php';
               <div class="box">
                 <div class="detail-box">
                   <img src="images/logosClientes/centroaceros.png" alt="">
+                </div>
+              </div>
+            </div>
+            <div class="item">
+              <div class="box">
+                <div class="detail-box">
+                  <img src="images/logosClientes/nutrivec.png" alt="">
                 </div>
               </div>
             </div>
@@ -195,7 +202,7 @@ include './controllers/head.php';
             <div class="item">
               <div class="box">
                 <div class="detail-box">
-                  <img src="images/logosClientes/rimoplasticas.png" alt="" style="width: 100px; height:100%" >
+                  <img src="images/logosClientes/rimoplasticas.png" alt="" >
                 </div>
               </div>
             </div>

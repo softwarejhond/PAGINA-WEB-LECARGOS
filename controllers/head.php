@@ -10,7 +10,7 @@
   <meta name="author" content="" />
   <link rel="shortcut icon" href="images/fevicon.png" type="">
 
-  <title> Carint </title>
+  <title>Lecargo</title>
 
   <!-- bootstrap core css -->
   <link rel="stylesheet" type="text/css" href="css/bootstrap.css" />
