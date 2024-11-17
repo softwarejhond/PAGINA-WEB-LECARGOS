@@ -7,19 +7,19 @@
               Direcciones
             </h4>
             <div class="contact_link_box">
-              <a href="">
+              <a href="contact.php">
                 <i class="fa fa-map-marker" aria-hidden="true"></i>
                 <span>
                   Ubicación
                 </span>
               </a>
-              <a href="">
+              <a href="contact.php">
                 <i class="fa fa-phone" aria-hidden="true"></i>
                 <span>
                   +57 1234567890
                 </span>
               </a>
-              <a href="">
+              <a href="contact.php">
                 <i class="fa fa-envelope" aria-hidden="true"></i>
                 <span>
                   sistemaslecargo@gmail.com
@@ -48,11 +48,12 @@
               Información
             </h4>
             <p>
-              Contamos experiencia logística y recursos humanos capacitados adecuadamente para la prestación del servicio, cuentamos con un parque automotor fidelizado en todas las modalidades y capacidades.
+              Contamos con una larga trayectoria en el sector del transporte. Somos confiables, por tener una alta cobertura, trayectoria y respaldo de nuestra compañía de seguros.<br>
+                      Contamos con respaldo y oportunidad con apoyo de alianzas estratégicas. 
             </p>
           </div>
         </div>
-        <div class="col-md-6 col-lg-2 mx-auto info_col">
+        <div class="col-md-6 col-lg-3 info_col">
           <div class="info_link_box">
             <h4>
               Links
@@ -67,17 +68,6 @@
             </div>
           </div>
         </div>
-        <div class="col-md-6 col-lg-3 info_col ">
-          <h4>
-            Subscribirse
-          </h4>
-          <form action="#">
-            <input type="text" placeholder="Enter email" />
-            <button type="submit">
-            Subscribirse
-            </button>
-          </form>
-        </div>
       </div>
     </div>
   </section>
@@ -88,10 +78,7 @@
   <section class="footer_section">
     <div class="container">
       <p>
-        &copy; <span id="displayYear"></span> All Rights Reserved By
-        <a href="https://html.design/">Free Html Templates</a>
-        Distributed By
-        <a href="https://themewagon.com">ThemeWagon</a>
+        &copy; <span id="displayYear"></span> Todos los Derechos Reservados por LECARGO S.A.S
       </p>
     </div>
   </section>

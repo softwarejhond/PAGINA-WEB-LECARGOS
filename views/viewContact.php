@@ -4,7 +4,7 @@
             <div class="col-lg-4 col-md-5 offset-md-1">
                 <div class="heading_container">
                     <h2>
-                        Contactanos
+                        Escríbenos
                     </h2>
                 </div>
             </div>

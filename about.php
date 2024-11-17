@@ -51,7 +51,7 @@ include './controllers/head.php'
         </div>
         <div class="col-md-6 ">
           <div class="img-box">
-            <img src="images/about-img.jpg" alt="">
+            <img src="images/ruta.jpg" alt="">
           </div>
         </div>
       </div>
@@ -70,7 +70,7 @@ include './controllers/head.php'
         </div>
         <div class="col-md-6 ">
           <div class="img-box">
-            <img src="images/about-img.jpg" alt="">
+            <img src="images/flota.jpg" alt="">
           </div>
         </div>
       </div>
@@ -130,7 +130,7 @@ include './controllers/head.php'
         </div>
         <div class="col-md-6 ">
           <div class="img-box">
-            <img src="images/about-img.jpg" alt="">
+            <img src="images/ruta.jpg" alt="">
           </div>
         </div>
       </div>
