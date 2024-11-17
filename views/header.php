@@ -6,13 +6,13 @@ $current_page = basename($_SERVER['PHP_SELF']);
     <div class="header_top">
         <div class="container-fluid ">
             <div class="contact_nav">
-                <a href="">
+                <a href="contact.php">
                     <i class="fa fa-phone" aria-hidden="true"></i>
                     <span>
                         Llamar : +57 123455678990
                     </span>
                 </a>
-                <a href="">
+                <a href="contact.php">
                     <i class="fa fa-envelope" aria-hidden="true"></i>
                     <span>
                         Email : sistemaslecargo@gmail.com
@@ -25,8 +25,8 @@ $current_page = basename($_SERVER['PHP_SELF']);
                     </span>
                 </a>
             </div>
-        </div>
-    </div>
+        </div> 
+    </div> 
     <div class="header_bottom">
         <div class="container-fluid">
             <nav class="navbar navbar-expand-lg custom_nav-container ">

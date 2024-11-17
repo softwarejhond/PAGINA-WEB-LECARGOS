@@ -3,7 +3,7 @@
         <div class="container ">
             <div class="heading_container">
                 <h2>
-                    Nuestros <span>Services</span>
+                    Nuestros <span>Servicios</span>
                 </h2>
                 <p>
                     Ajustamos su operación a la necesidad del cliente, diseñando programas como flotas dedicadas, frecuencias fijas, corredores de carga, cross-docking.
@@ -13,7 +13,7 @@
                 <div class="col-md-6 ">
                     <div class="box ">
                         <div class="img-box">
-                            <img src="images/avion.png" alt="icono de avion" style="filter: invert(14%) sepia(49%) saturate(1473%) hue-rotate(209deg) brightness(97%) contrast(93%);">
+                            <img src="images/truck-nacional.png" alt="icono de avion" style="filter: invert(14%) sepia(49%) saturate(1473%) hue-rotate(209deg) brightness(97%) contrast(93%);">
                         </div>
                         <div class="detail-box">
                             <h5>
@@ -30,7 +30,7 @@
                 <div class="col-md-6 ">
                     <div class="box ">
                         <div class="img-box">
-                            <img src="images/barco-de-carga.png" alt="icono de barco" style="filter: invert(65%) sepia(53%) saturate(6412%) hue-rotate(347deg) brightness(93%) contrast(93%);">
+                            <img src="images/truck.png" alt="icono de barco" style="filter: invert(65%) sepia(53%) saturate(6412%) hue-rotate(347deg) brightness(93%) contrast(93%);">
                         </div>
                         <div class="detail-box">
                             <h5>
@@ -47,7 +47,7 @@
                 <div class="col-md-6 ">
                     <div class="box ">
                         <div class="img-box">
-                            <img src="images/truck.png" alt="icono de camion" style="filter: invert(14%) sepia(49%) saturate(1473%) hue-rotate(209deg) brightness(97%) contrast(93%);">
+                            <img src="images/camion.png" alt="icono de camion" style="filter: invert(14%) sepia(49%) saturate(1473%) hue-rotate(209deg) brightness(97%) contrast(93%);">
                         </div>
                         <div class="detail-box">
                             <h5>

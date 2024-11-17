@@ -125,8 +125,9 @@ a:focus {
   display: -ms-flexbox;
   display: flex;
   -webkit-box-pack: justify;
-      -ms-flex-pack: justify;
-          justify-content: space-between;
+  -ms-flex-pack: justify;
+  justify-content: center;
+  gap: 50px;
 }
 
 .header_section .header_top .contact_nav a {
@@ -314,6 +315,10 @@ a:focus {
 }
 
 .slider_section .slider_bg_box {
+  background-image: url(../images/slider-bg.jpg);
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
   position: absolute;
   top: 0;
   left: 0;
@@ -343,8 +348,8 @@ a:focus {
 
 .slider_section .row {
   -webkit-box-align: center;
-      -ms-flex-align: center;
-          align-items: center;
+  -ms-flex-align: center;
+  align-items: center;
 }
 
 .slider_section #customCarousel1 {
@@ -491,8 +496,8 @@ a:focus {
 
 .about_section .row {
   -webkit-box-align: center;
-      -ms-flex-align: center;
-          align-items: center;
+  -ms-flex-align: center;
+  align-items: center;
 }
 
 .about_section .img-box {
@@ -556,13 +561,18 @@ a:focus {
 }
 
 .track_section .track_bg_box {
+  background-image: url(../images/track-bg.jpg);
+  background-position: center;
+  background-size: cover;
+  background-repeat: no-repeat;
   position: absolute;
   top: 0;
   left: 0;
   width: 100%;
   height: 100%;
   overflow: hidden;
-  z-index: -1;
+  z-index: 0;
+
 }
 
 .track_section .track_bg_box img {
@@ -842,6 +852,9 @@ a:focus {
 .info_section h4 {
   font-weight: 600;
   margin-bottom: 20px;
+}
+.info_section .row{
+  justify-content: space-evenly;
 }
 
 .info_section .info_col {

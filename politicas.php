@@ -28,7 +28,7 @@ include './controllers/head.php'
         </div>
         <div class="col-md-6 ">
           <div class="img-box">
-            <img src="images/about-img.jpg" alt="">
+            <img src="images/flota.jpg" alt="">
           </div>
         </div>
       </div>
@@ -47,7 +47,7 @@ include './controllers/head.php'
         </div>
         <div class="col-md-6 ">
           <div class="img-box">
-            <img src="images/about-img.jpg" alt="">
+            <img src="images/ruta.jpg" alt="">
           </div>
         </div>
       </div>
@@ -56,7 +56,7 @@ include './controllers/head.php'
           <div class="detail-box">
             <div class="heading_container">
               <h2>
-                Obejetivos <span>Empresariales</span>
+                Objetivos <span>Empresariales</span>
               </h2>
             </div>
             <p>
@@ -103,7 +103,7 @@ include './controllers/head.php'
         </div>
         <div class="col-md-6 ">
           <div class="img-box">
-            <img src="images/about-img.jpg" alt="">
+            <img src="images/flota.jpg" alt="">
           </div>
         </div>
       </div>
@@ -124,7 +124,7 @@ include './controllers/head.php'
         </div>
         <div class="col-md-6 ">
           <div class="img-box">
-            <img src="images/about-img.jpg" alt="">
+            <img src="images/ruta.jpg" alt="">
           </div>
         </div>
       </div>

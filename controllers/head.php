@@ -9,6 +9,10 @@
   <meta name="description" content="" />
   <meta name="author" content="" />
   <link rel="shortcut icon" href="images/fevicon.png" type="">
+  <link rel="preload" href="imagenes/about-img.jpg" as="image">
+  <link rel="preload" href="imagenes/track-bg.jpg" as="image" >
+  <link rel="preload" href="imagenes/ruta.jpg"as="image">
+  <link rel="preload" href="imagenes/flota.jpg" as="image">
 
   <title> Carint </title>
 
