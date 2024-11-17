@@ -13,7 +13,7 @@ include './controllers/head.php';
   <!-- slider section -->
   <section class="slider_section">
       <div class="slider_bg_box">
-        <img src="images/slider-bg.jpg" alt="">
+        <!-- <img src="images/slider-bg.jpg" alt=""> -->
       </div>
       <div id="customCarousel1" class="carousel slide" data-ride="carousel">
         <div class="carousel-inner">
@@ -33,7 +33,7 @@ include './controllers/head.php';
                     </p>
                     <div class="btn-box">
                       <a href="" class="btn1">
-                        Get A Quote
+                        Escríbenos
                       </a>
                     </div>
                   </div>
@@ -50,13 +50,11 @@ include './controllers/head.php';
                       NuestraTrayectoria
                     </h1>
                     <p>
-                    	Contamos con una larga trayectoria en el sector del transporte. Somos confiables, por tener una alta cobertura, trayectoria y respaldo de nuestra compañía de seguros.<br>
-                      Contamos con respaldo y oportunidad con apoyo de alianzas estratégicas. 
-
+                      La experiencia y trayectoria de sus socios con más de 20 años en el mercado, permite implementar nuevas tendencias y estrategias innovadoras en los procesos de abastecimiento, transporte y distribución; para atender las diferentes necesidades, de una manera eficiente y cómoda en beneficio de nuestros clientes. 
                     </p>
                     <div class="btn-box">
                       <a href="" class="btn1">
-                        Get A Quote
+                        Escríbenos
                       </a>
                     </div>
                   </div>
@@ -68,7 +66,6 @@ include './controllers/head.php';
         <ol class="carousel-indicators">
           <li data-target="#customCarousel1" data-slide-to="0" class="active"></li>
           <li data-target="#customCarousel1" data-slide-to="1"></li>
-          <!-- <li data-target="#customCarousel1" data-slide-to="2"></li> -->
         </ol>
       </div>
       
@@ -84,7 +81,7 @@ include './controllers/head.php';
   <section class="about_section layout_padding-bottom">
     <div class="container  ">
       <div class="row">
-        <div class="col-md-6">
+        <div class="col-md-6 px-4">
           <div class="detail-box">
             <div class="heading_container">
               <h2>
@@ -92,10 +89,10 @@ include './controllers/head.php';
               </h2>
             </div>
             <p>
-              La experiencia y trayectoria de sus socios con más de 20 años en el mercado, permite implementar nuevas tendencias y estrategias innovadoras en los procesos de abastecimiento, transporte y distribución; para atender las diferentes necesidades, de una manera eficiente y cómoda en beneficio de nuestros clientes
+              Lecargo es una empresa especializada en diseñar y ofrecer soluciones con servicios de logística y transporte de carga por carretera seguros, oportunos y confiables con una infraestructura moderna y que proteja el medio ambiente; para ello contar con un recurso humano y tecnológico competente, orientados a satisfacer oportunamente las necesidades y expectativas de nuestros clientes, proveedores y socios, que genere competitividad a la industria y sostenibilidad en el tiempo.
             </p>
             <a href="about.php">
-              Read More
+              Leer más
             </a>
           </div>
         </div>
@@ -114,9 +111,7 @@ include './controllers/head.php';
   <!-- track section -->
 
   <section class="track_section layout_padding">
-    <div class="track_bg_box">
-      <img src="images/track-bg.jpg" alt="">
-    </div>
+    <div class="track_bg_box"></div>
     <div class="container">
       <div class="row">
         <div class="col-md-6">
