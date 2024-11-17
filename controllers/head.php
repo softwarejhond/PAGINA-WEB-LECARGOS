@@ -9,17 +9,12 @@
   <meta name="description" content="" />
   <meta name="author" content="" />
   <link rel="shortcut icon" href="images/fevicon.png" type="">
-  <link rel="preload" href="imagenes/about-img.jpg" as="image">
-  <link rel="preload" href="imagenes/track-bg.jpg" as="image" >
-  <link rel="preload" href="imagenes/ruta.jpg"as="image">
-  <link rel="preload" href="imagenes/flota.jpg" as="image">
 
   <title> Carint </title>
 
-
   <!-- bootstrap core css -->
   <link rel="stylesheet" type="text/css" href="css/bootstrap.css" />
-
+  <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap-icons@1.11.3/font/bootstrap-icons.min.css">
   <!-- fonts style -->
   <link href="https://fonts.googleapis.com/css2?family=Roboto:wght@400;500;700;900&display=swap" rel="stylesheet">
 

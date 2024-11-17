@@ -35,6 +35,7 @@ include './controllers/head.php';
                       <a href="" class="btn1">
                         Escríbenos
                       </a>
+                      
                     </div>
                   </div>
                 </div>
@@ -214,6 +215,9 @@ include './views/footer.php';
 include './controllers/scripts.php';
 ?>
 
+<aside class="button-floating">
+  <a target="_blank" href="https://web.whatsapp.com/"><i class="bi bi-whatsapp" style="width: 300px; height: 300px"></i></a>
+</aside>
 </body>
 
 </html>
