@@ -85,3 +85,6 @@
     </p>
   </div>
 </section>
+<aside class="button-floating">
+  <a target="_blank" href="https://web.whatsapp.com/"><i class="bi bi-whatsapp" style="width: 300px; height: 300px"></i></a>
+</aside>

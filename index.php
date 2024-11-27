@@ -23,8 +23,7 @@ include './controllers/head.php';
                 <div class="col-md-7 ">
                   <div class="detail-box">
                     <h1>
-                      Tenemos el Mejor <br>
-                      Servicio de Transporte
+                      Flota Moderna y Versátil
                     </h1>
                     <p>
                       Contamos con una moderna y versátil flota de transporte fidelizada en el país que asciende hasta 150 unidades en todas sus configuraciones.<br>
@@ -48,7 +47,7 @@ include './controllers/head.php';
                 <div class="col-md-7 ">
                   <div class="detail-box">
                     <h1>
-                      NuestraTrayectoria
+                      Nuestra Trayectoria
                     </h1>
                     <p>
                       La experiencia y trayectoria de sus socios con más de 20 años en el mercado, permite implementar nuevas tendencias y estrategias innovadoras en los procesos de abastecimiento, transporte y distribución; para atender las diferentes necesidades, de una manera eficiente y cómoda en beneficio de nuestros clientes. 
@@ -137,7 +136,7 @@ include './controllers/head.php';
     <div class="container">
       <div class="heading_container">
         <h2>
-          Algunos de Nuestros <span>Clientes</span>
+          Algunos de <span>Nuestros Clientes</span>
         </h2>
       </div>
       <div class="client_container">
@@ -222,9 +221,7 @@ include './views/footer.php';
 include './controllers/scripts.php';
 ?>
 
-<aside class="button-floating">
-  <a target="_blank" href="https://web.whatsapp.com/"><i class="bi bi-whatsapp" style="width: 300px; height: 300px"></i></a>
-</aside>
+
 </body>
 
 </html>
