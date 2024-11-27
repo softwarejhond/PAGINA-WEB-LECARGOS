@@ -77,12 +77,14 @@
 <!-- footer section -->
 <section class="footer_section">
   <div class="container">
-    <p>
-      &copy; <span id="displayYear"></span> Todos los Derechos Reservados por LECARGO S.A.S
+    <p class="block-41__copyrights">
+      &copy; <script>
+        document.write(new Date().getFullYear());
+      </script> Made by
+      <a href="https://www.agenciaeaglesoftware.com/" target="_blank">Agencia de Desarrollo Eagle Software</a> - Todos los derechos reservados.
     </p>
   </div>
 </section>
-
 <aside class="button-floating">
   <a target="_blank" href="https://web.whatsapp.com/"><i class="bi bi-whatsapp" style="width: 300px; height: 300px"></i></a>
 </aside>
