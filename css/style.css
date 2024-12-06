@@ -397,6 +397,7 @@ a:focus {
   -webkit-transition: all .3s;
   transition: all .3s;
   border: none;
+  border-radius: 5px;
 }
 
 .slider_section .detail-box .btn-box .btn1:hover {
@@ -550,6 +551,7 @@ a:focus {
   transition: all .3s;
   border: none;
   margin-top: 15px;
+  border-radius: 5px;
 }
 
 .about_section .detail-box a:hover {
@@ -735,6 +737,7 @@ a:focus {
   right: -15%;
   outline: none;
   background-color: var(--color-secundary);
+  border-radius: 5px;
 }
 
 .client_section .owl-carousel .owl-nav .owl-prev:hover,
@@ -1003,6 +1006,7 @@ a:focus {
 /*# sourceMappingURL=style.css.map */
 
 
+/* ESTILOS ADICIONALES */
 
 .button-floating{
   background-color: var(--color-whatsapp);
@@ -1024,13 +1028,39 @@ a:focus {
   cursor: pointer;
   color: #e7e7e7;
 }
-.button-floating a{
+.button-floating span{
   text-decoration: none;
+  color: white;
+}
+.options-whatsapp {
+  display: none;
+  position: fixed;
+  bottom: 95px;
+  right: 90px;
+  width: fit-content;
+  flex-direction: column;
+  background-color: white;
+  box-shadow: 1px 1px 5px grey;
+  padding: 10px 0;
+  border-radius: 10px;
+  z-index: 100;
+}
+.options-whatsapp a {
+  color: black;
+  text-decoration: none;
+  padding: 0 10px;
+}
+.options-whatsapp a:hover {
+  background-color: var(--color-primary);
   color: white;
 }
 @media (max-width: 500px) {
   .button-floating{
     bottom: 20px;
     right: 20px;
+  }
+  .options-whatsapp {
+    bottom: 75px;
+    right: 70px;
   }
 }

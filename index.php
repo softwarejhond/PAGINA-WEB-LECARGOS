@@ -31,10 +31,9 @@ include './controllers/head.php';
 
                     </p>
                     <div class="btn-box">
-                      <a href="" class="btn1">
+                      <a href="./contact.php" class="btn1">
                         Escríbenos
                       </a>
-                      
                     </div>
                   </div>
                 </div>
@@ -53,7 +52,7 @@ include './controllers/head.php';
                       La experiencia y trayectoria de sus socios con más de 20 años en el mercado, permite implementar nuevas tendencias y estrategias innovadoras en los procesos de abastecimiento, transporte y distribución; para atender las diferentes necesidades, de una manera eficiente y cómoda en beneficio de nuestros clientes. 
                     </p>
                     <div class="btn-box">
-                      <a href="" class="btn1">
+                      <a href="./contact.php" class="btn1">
                         Escríbenos
                       </a>
                     </div>

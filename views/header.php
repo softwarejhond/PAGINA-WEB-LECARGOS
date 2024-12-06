@@ -9,7 +9,7 @@ $current_page = basename($_SERVER['PHP_SELF']);
                 <a href="contact.php">
                     <i class="fa fa-phone" aria-hidden="true"></i>
                     <span>
-                        Llamar : +57 123455678990
+                        Llamar : +57 3104823766
                     </span>
                 </a>
                 <a href="contact.php">
