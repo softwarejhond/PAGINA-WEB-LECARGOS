@@ -16,7 +16,7 @@
             <a href="contact.php">
               <i class="fa fa-phone" aria-hidden="true"></i>
               <span>
-                +57 1234567890
+                +57 3104823766
               </span>
             </a>
             <a href="contact.php">
@@ -28,16 +28,13 @@
           </div>
         </div>
         <div class="info_social">
-          <a href="">
+          <a target="_blank" href="https://www.instagram.com/lecargo_s.a.s/">
             <i class="fa fa-facebook" aria-hidden="true"></i>
           </a>
-          <a href="">
-            <i class="fa fa-twitter" aria-hidden="true"></i>
+          <a target="_blank" href="https://wa.link/wssyh4">
+            <i class="fa fa-whatsapp" aria-hidden="true"></i>
           </a>
-          <a href="">
-            <i class="fa fa-linkedin" aria-hidden="true"></i>
-          </a>
-          <a href="">
+          <a target="_blank" href="https://www.instagram.com/lecargo_s.a.s/">
             <i class="fa fa-instagram" aria-hidden="true"></i>
           </a>
         </div>
@@ -86,5 +83,11 @@
   </div>
 </section>
 <aside class="button-floating">
-  <a target="_blank" href="https://web.whatsapp.com/"><i class="bi bi-whatsapp" style="width: 300px; height: 300px"></i></a>
+  <!-- <a target="_blank" href="https://web.whatsapp.com/"><i class="bi bi-whatsapp" style="width: 300px; height: 300px"></i></a> -->
+  <span><i class="bi bi-whatsapp" style="width: 300px; height: 300px"></i></span>
 </aside>
+<aside class="options-whatsapp">
+  <a href="https://wa.link/wssyh4" target="_blank" rel="Texto número de whatsapp">+57 3104823766</a>
+  <a href="https://wa.link/yy1gzp" target="_blank" rel="Texto número de whatsapp">+57 3216062900</a>
+</aside>
+
