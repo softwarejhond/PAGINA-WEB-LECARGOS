@@ -7,13 +7,13 @@
             Direcciones
           </h4>
           <div class="contact_link_box">
-            <a href="contact.php">
+            <a target="__blank" href="https://www.google.com/maps?q=6.188716992899272, -75.58961783675565">
               <i class="fa fa-map-marker" aria-hidden="true"></i>
               <span>
-                Ubicación
+                Calle 85 #48 -01 BL 31 OF 239, Itagüí, Antioquia
               </span>
             </a>
-            <a href="contact.php">
+            <a href="tel:+57 3104823766">
               <i class="fa fa-phone" aria-hidden="true"></i>
               <span>
                 +57 3104823766
@@ -87,7 +87,7 @@
   <span><i class="bi bi-whatsapp" style="width: 300px; height: 300px"></i></span>
 </aside>
 <aside class="options-whatsapp">
-  <a href="https://wa.link/wssyh4" target="_blank" rel="Texto número de whatsapp">+57 3104823766</a>
-  <a href="https://wa.link/yy1gzp" target="_blank" rel="Texto número de whatsapp">+57 3216062900</a>
+  <a href="https://wa.link/wssyh4" target="_blank" rel="Texto número de whatsapp"><i class="fa fa-whatsapp" aria-hidden="true"></i> +57 3104823766</a>
+  <a href="https://wa.link/yy1gzp" target="_blank" rel="Texto número de whatsapp"><i class="fa fa-whatsapp" aria-hidden="true"></i> +57 3216062900</a>
 </aside>
 
