@@ -1008,6 +1008,14 @@ a:focus {
 
 /* ESTILOS ADICIONALES */
 
+.custom_nav-container .navbar-nav .icon-email .nav-link{
+  color: var(--color-secundary);
+  cursor: pointer;
+  font-size: 20px;
+  padding-left:0;
+  display: flex;
+  align-items: center;
+}
 .button-floating{
   background-color: var(--color-whatsapp);
   content: "";

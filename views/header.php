@@ -6,7 +6,7 @@ $current_page = basename($_SERVER['PHP_SELF']);
     <div class="header_top">
         <div class="container-fluid ">
             <div class="contact_nav">
-                <a href="contact.php">
+                <a href="tel:+57 3104823766">
                     <i class="fa fa-phone" aria-hidden="true"></i>
                     <span>
                         Llamar : +57 3104823766
@@ -18,7 +18,7 @@ $current_page = basename($_SERVER['PHP_SELF']);
                         Email : sistemaslecargo@gmail.com
                     </span>
                 </a>
-                <a href="contact.php">
+                <a target="__blank" href="https://www.google.com/maps?q=6.188716992899272, -75.58961783675565">
                     <i class="fa fa-map-marker" aria-hidden="true"></i>
                     <span>
                         Ubicación
@@ -53,6 +53,9 @@ $current_page = basename($_SERVER['PHP_SELF']);
                         </li>
                         <li class="nav-item <?php echo ($current_page == 'contact.php') ? 'active' : ''; ?>">
                             <a class="nav-link" href="contact.php">Contacto</a>
+                        </li>
+                        <li class="nav-item icon-email">
+                            <a target="__blank" href="https://host21.latinoamericahosting.com:2096/webmaillogout.cgi" class="nav-link"><i class="fa fa-envelope"></i></a>
                         </li>
                     </ul>
                 </div>
