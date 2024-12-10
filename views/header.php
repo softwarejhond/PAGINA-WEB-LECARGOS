@@ -2,7 +2,7 @@
 $current_page = basename($_SERVER['PHP_SELF']);
 ?>
 <!-- header section strats -->
-<header class="header_section">
+<header class="header_section ">
     <div class="header_top">
         <div class="container-fluid ">
             <div class="contact_nav">
