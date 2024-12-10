@@ -32,7 +32,7 @@ $current_page = basename($_SERVER['PHP_SELF']);
             <nav class="navbar navbar-expand-lg custom_nav-container ">
                 <a class="navbar-brand" href="index.php">
                     <span>
-                        <img src="../images/logo.png" alt="Logo Empresa Lecargo">
+                        <img src="../images/logoOk.png" alt="Logo Empresa Lecargo">
                     </span>
                 </a>
 
@@ -43,16 +43,16 @@ $current_page = basename($_SERVER['PHP_SELF']);
                 <div class="collapse navbar-collapse" id="navbarSupportedContent">
                     <ul class="navbar-nav  ">
                         <li class="nav-item <?php echo ($current_page == 'index.php') ? 'active' : ''; ?>">
-                            <a class="nav-link" href="index.php">Inicio</a>
+                            <a class="nav-link" href="index">Inicio</a>
                         </li>
                         <li class="nav-item <?php echo ($current_page == 'service.php') ? 'active' : ''; ?>">
-                            <a class="nav-link" href="service.php">Servicios</a>
+                            <a class="nav-link" href="service">Servicios</a>
                         </li>
                         <li class="nav-item <?php echo ($current_page == 'about.php') ? 'active' : ''; ?>">
-                            <a class="nav-link" href="about.php">Nosotros</a>
+                            <a class="nav-link" href="about">Nosotros</a>
                         </li>
                         <li class="nav-item <?php echo ($current_page == 'contact.php') ? 'active' : ''; ?>">
-                            <a class="nav-link" href="contact.php">Contacto</a>
+                            <a class="nav-link" href="contact">Contacto</a>
                         </li>
                         <li class="nav-item icon-email">
                             <a target="__blank" href="https://host21.latinoamericahosting.com:2096/webmaillogout.cgi" class="nav-link"><i class="fa fa-envelope"></i></a>
