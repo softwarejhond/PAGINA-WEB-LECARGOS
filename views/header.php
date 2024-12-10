@@ -15,7 +15,7 @@ $current_page = basename($_SERVER['PHP_SELF']);
                 <a href="contact.php">
                     <i class="fa fa-envelope" aria-hidden="true"></i>
                     <span>
-                        Email : sistemaslecargo@gmail.com
+                        Email : direccion@lecargosas.com
                     </span>
                 </a>
                 <a target="__blank" href="https://www.google.com/maps?q=6.188716992899272, -75.58961783675565">
