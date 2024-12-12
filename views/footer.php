@@ -60,8 +60,8 @@
             <a href="about.php">Nosotros</a>
             <a href="service.php">Servicios</a>
             <a href="contact.php"><span>Contacto</span>
-              <a href="politicas.php"><span>Políticas Internas</span>
-              </a>
+            <a href="politicas.php"><span>Políticas Internas</span></a>
+            <a href="pqrs.php"><span>Pqrs</span></a>
           </div>
         </div>
       </div>

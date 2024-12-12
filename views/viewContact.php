@@ -26,7 +26,7 @@
                             <input type="text" class="message-box" placeholder="Mensaje" name="menssage" required/>
                         </div>
                         <div class="btn_box">
-                        <input type="submit" id="button" value="Enviar Mensaje" class="btn btn1" >
+                            <input type="submit" id="button" value="Enviar Mensaje" class="btn btn1 button" >
                         </div>
                     </form>
                 </div>
