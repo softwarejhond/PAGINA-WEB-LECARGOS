@@ -43,19 +43,19 @@ $current_page = basename($_SERVER['PHP_SELF']);
                 <div class="collapse navbar-collapse" id="navbarSupportedContent">
                     <ul class="navbar-nav  ">
                         <li class="nav-item <?php echo ($current_page == 'index.php') ? 'active' : ''; ?>">
-                            <a class="nav-link" href="index">Inicio</a>
+                            <a class="nav-link" href="index.php">Inicio</a>
                         </li>
                         <li class="nav-item <?php echo ($current_page == 'service.php') ? 'active' : ''; ?>">
-                            <a class="nav-link" href="service">Servicios</a>
+                            <a class="nav-link" href="service.php">Servicios</a>
                         </li>
                         <li class="nav-item <?php echo ($current_page == 'about.php') ? 'active' : ''; ?>">
-                            <a class="nav-link" href="about">Nosotros</a>
+                            <a class="nav-link" href="about.php">Nosotros</a>
                         </li>
                         <li class="nav-item <?php echo ($current_page == 'politicas.php') ? 'active' : ''; ?>">
-                            <a class="nav-link" href="politicas">Política</a>
+                            <a class="nav-link" href="politicas.php">Política</a>
                         </li>
                         <li class="nav-item <?php echo ($current_page == 'contact.php') ? 'active' : ''; ?>">
-                            <a class="nav-link" href="contact">Contacto</a>
+                            <a class="nav-link" href="contact.php">Contacto</a>
                         </li>
                         <li class="nav-item icon-email">
                             <a target="__blank" href="https://host21.latinoamericahosting.com:2096/webmaillogout.cgi" class="nav-link"><i class="fa fa-envelope"></i></a>

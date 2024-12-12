@@ -763,6 +763,7 @@ a:focus {
 
 .contact_section .heading_container {
   margin-bottom: 25px;
+  align-items: center;
 }
 
 .contact_section .heading_container h2 {
@@ -772,8 +773,25 @@ a:focus {
 .contact_section .form_container {
   margin-right: 15px;
 }
+.contact_section .form_container form {
+  display: grid;
+  grid-template-columns: 48% 48%;
+  grid-template-rows: auto;
+  gap: 2rem;
+}
+.contact_section .form_container .mensaje{
+  grid-column: 1 / 3;
+}
+.contact_section .form_container .btn_box{
+  grid-column: 1 / 3;
+}
+.contact_section .form_container form>div  {
+  display: flex;
+  flex-direction: column;
+  justify-content: end;
+}
 
-.contact_section .form_container input {
+.contact_section .form_container input, .contact_section .form_container select, .contact_section .form_container textarea {
   width: 100%;
   border: none;
   height: 50px;
@@ -801,7 +819,7 @@ a:focus {
   color: var(--color-primary);
 }
 
-.contact_section .form_container input.message-box {
+.contact_section .form_container textarea.message-box {
   height: 120px;
 }
 
@@ -1007,7 +1025,13 @@ a:focus {
 
 
 /* ESTILOS ADICIONALES */
-
+.contact_section .form_container .button {
+  background-color: var(--color-secundary);
+  color: white;
+}
+.contact_section .form_container .button:hover {
+  background-color: var(--color-hover);
+}
 .custom_nav-container .navbar-nav .icon-email .nav-link{
   color: var(--color-secundary);
   cursor: pointer;
@@ -1061,6 +1085,11 @@ a:focus {
 .options-whatsapp a:hover {
   background-color: var(--color-primary);
   color: white;
+}
+@media (max-width: 650px) {
+  .contact_section .form_container form {
+    gap: 1rem;
+  }
 }
 @media (max-width: 500px) {
   .button-floating{
