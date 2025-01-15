@@ -15,7 +15,7 @@
                         <div class="row">
                             <div class="col-md-2 ">
                                 <div class="img-box">
-                                    <img src="images/truck-nacional.png" alt="icono de avion" style="filter: invert(14%) sepia(49%) saturate(1473%) hue-rotate(209deg) brightness(97%) contrast(93%);">
+                                    <img src="images/truck-nacional.png" alt="icono de avion" style="filter: invert(16%) sepia(52%) saturate(2694%) hue-rotate(226deg) brightness(91%) contrast(112%);">
                                 </div>
                             </div>
                             <div class="col-md-10 ">
@@ -59,7 +59,7 @@
                         <div class="row">
                             <div class="col-md-2 ">
                                 <div class="img-box">
-                                    <img src="images/camion.png" alt="icono de camion" style="filter: invert(14%) sepia(49%) saturate(1473%) hue-rotate(209deg) brightness(97%) contrast(93%);">
+                                    <img src="images/camion.png" alt="icono de camion" style="filter: invert(16%) sepia(52%) saturate(2694%) hue-rotate(226deg) brightness(91%) contrast(112%);">
                                 </div>
                             </div>
                             <div class="col-md-10 ">
