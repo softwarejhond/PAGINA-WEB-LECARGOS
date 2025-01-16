@@ -22,7 +22,7 @@
             <a href="contact.php">
               <i class="fa fa-envelope" aria-hidden="true"></i>
               <span>
-                sistemaslecargo@gmail.com
+                direccion@lecargosas.com
               </span>
             </a>
           </div>

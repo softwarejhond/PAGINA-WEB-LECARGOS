@@ -18,7 +18,7 @@ include './controllers/head.php'
           <div class="detail-box">
             <div class="heading_container">
               <h2>
-                Lecago <span>S.A.S</span>
+                Lecargo <span>S.A.S</span>
               </h2>
             </div>
             <p>
@@ -32,7 +32,7 @@ include './controllers/head.php'
         </div>
         <div class="col-md-6 ">
           <div class="img-box">
-            <img src="images/about-img.png" alt="">
+            <img src="images/flota.png" alt="">
           </div>
         </div>
       </div>
@@ -51,7 +51,7 @@ include './controllers/head.php'
         </div>
         <div class="col-md-6 ">
           <div class="img-box">
-            <img src="images/ruta.png" alt="">
+            <img src="images/persona_camion.png" alt="">
           </div>
         </div>
       </div>
@@ -70,7 +70,7 @@ include './controllers/head.php'
         </div>
         <div class="col-md-6 ">
           <div class="img-box">
-            <img src="images/flota.png" alt="">
+            <img src="images/puente_camion.png" alt="">
           </div>
         </div>
       </div>
@@ -111,7 +111,7 @@ include './controllers/head.php'
         </div>
         <div class="col-md-6 ">
           <div class="img-box">
-            <img src="images/ruta_camion.png" alt="">
+            <img src="images/conductor.png" alt="">
           </div>
         </div>
       </div>

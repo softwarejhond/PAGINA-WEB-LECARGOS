@@ -32,7 +32,7 @@ $current_page = basename($_SERVER['PHP_SELF']);
             <nav class="navbar navbar-expand-lg custom_nav-container ">
                 <a class="navbar-brand" href="index.php">
                     <span>
-                        <img src="../images/logoOk.png" alt="Logo Empresa Lecargo">
+                        <img src="../images/logo_.png" alt="Logo Empresa Lecargo">
                     </span>
                 </a>
 

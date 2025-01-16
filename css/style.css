@@ -1,7 +1,9 @@
 @import url("https://fonts.googleapis.com/css2?family=Lato:wght@400;700&family=Open+Sans:wght@300;400;600;700&display=swap");
 :root{
-  --color-primary: #262B5C;
+  /* --color-primary: #262B5C; */
+  --color-primary: #1D1D7F;
   --color-secundary: #E66322;
+  /* --color-secundary: #CC5E25; */
   --color-hover: #a33b06;
   --color-whatsapp: #008f39;
   --color-hover-whatsapp: #015f27;
@@ -164,7 +166,7 @@ a:focus {
 
 .header_section .header_bottom {
   background-color: #ffffff;
-  padding: 15px 0;
+  padding: 20px 0;
 }
 
 .header_section .header_bottom .container-fluid {
@@ -180,7 +182,7 @@ a:focus {
   font-size: 24px;
   color: #000000;
   display: block;
-  width: 160px;
+  width: 300px;
 }
 
 .custom_nav-container {
