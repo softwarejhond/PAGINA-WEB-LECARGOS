@@ -13,7 +13,7 @@ include './controllers/head.php'
   <!-- about section -->
   <section class="about_section layout_padding">
     <div class="container  ">
-      <div class="row mb-3">
+      <div class="row mb-5 fade-div">
         <div class="col-md-6 px-4">
           <div class="detail-box">
             <div class="heading_container">
@@ -27,12 +27,12 @@ include './controllers/head.php'
           </div>
         </div>
         <div class="col-md-6 ">
-          <div class="img-box">
+          <div class="img-box image-container">
             <img src="./images/ruta_camion.png" alt="">
           </div>
         </div>
       </div>
-      <div class="row mb-3 flex-row-reverse">
+      <div class="row mb-5 fade-div flex-row-reverse">
         <div class="col-md-6 px-4">
           <div class="detail-box">
             <div class="heading_container">
@@ -46,12 +46,12 @@ include './controllers/head.php'
           </div>
         </div>
         <div class="col-md-6 ">
-          <div class="img-box">
+          <div class="img-box image-container">
             <img src="./images/ruta.png" alt="">
           </div>
         </div>
       </div>
-      <div class="row mb-3">
+      <div class="row mb-5 fade-div">
         <div class="col-md-6 px-4">
           <div class="detail-box">
             <div class="heading_container">
@@ -81,12 +81,12 @@ include './controllers/head.php'
           </div>
         </div>
         <div class="col-md-6 ">
-          <div class="img-box">
+          <div class="img-box image-container">
             <img src="./images/paisaje.png" alt="">
           </div>
         </div>
       </div>
-      <div class="row mb-3 flex-row-reverse">
+      <div class="row mb-5 fade-div flex-row-reverse">
         <div class="col-md-6 px-4">
           <div class="detail-box">
             <div class="heading_container">
@@ -102,12 +102,12 @@ include './controllers/head.php'
           </div>
         </div>
         <div class="col-md-6 ">
-          <div class="img-box">
+          <div class="img-box image-container">
             <img src="./images/camion_azul.png" alt="">
           </div>
         </div>
       </div>
-      <div class="row mb-3">
+      <div class="row mb-5 fade-div">
         <div class="col-md-6 px-4">
           <div class="detail-box">
             <div class="heading_container">
@@ -123,7 +123,7 @@ include './controllers/head.php'
           </div>
         </div>
         <div class="col-md-6 ">
-          <div class="img-box">
+          <div class="img-box image-container">
             <img src="./images/camion_ruta.png" alt="">
           </div>
         </div>

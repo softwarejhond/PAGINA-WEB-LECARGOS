@@ -13,7 +13,7 @@ include './controllers/head.php'
   <!-- about section -->
   <section class="about_section layout_padding">
     <div class="container  ">
-      <div class="row mb-3">
+      <div class="row mb-5 fade-div">
         <div class="col-md-6 px-4">
           <div class="detail-box">
             <div class="heading_container">
@@ -30,13 +30,13 @@ include './controllers/head.php'
             </p>
           </div>
         </div>
-        <div class="col-md-6 ">
-          <div class="img-box">
+        <div class="col-md-6">
+          <div class="img-box image-container">
             <img src="images/flota.png" alt="">
           </div>
         </div>
       </div>
-      <div class="row mb-3 flex-row-reverse">
+      <div class="row mb-5 flex-row-reverse fade-div">
         <div class="col-md-6 px-4">
           <div class="detail-box">
             <div class="heading_container">
@@ -50,12 +50,12 @@ include './controllers/head.php'
           </div>
         </div>
         <div class="col-md-6 ">
-          <div class="img-box">
+          <div class="img-box image-container">
             <img src="images/persona_camion.png" alt="">
           </div>
         </div>
       </div>
-      <div class="row mb-3">
+      <div class="row mb-5 fade-div">
         <div class="col-md-6 px-4">
           <div class="detail-box">
             <div class="heading_container">
@@ -69,12 +69,12 @@ include './controllers/head.php'
           </div>
         </div>
         <div class="col-md-6 ">
-          <div class="img-box">
+          <div class="img-box image-container">
             <img src="images/puente_camion.png" alt="">
           </div>
         </div>
       </div>
-      <div class="row mb-3 flex-row-reverse">
+      <div class="row mb-5 fade-div flex-row-reverse">
         <div class="col-md-6 px-4">
           <div class="detail-box">
             <div class="heading_container">
@@ -83,16 +83,16 @@ include './controllers/head.php'
               </h2>
             </div>
             <p>
-              
+
               Nuestros valores están fundamentados en la seriedad basados en hechos y manejo de información suficiente buscando siempre el cambio productivo como alternativa.
               <br>
-              <ul>
-                <li>
-                  <b>RESPONSABILIDAD:</b> obrar con responsabilidad, en consecuencia, con los deberes y derechos, acorde con el compromiso con la empresa.
-                </li>
-                <li>
-                  <b>INTEGRIDAD:</b> en LECARGO se trabaja con integridad y honestidad conforme a la verdad.
-                </li>
+            <ul>
+              <li>
+                <b>RESPONSABILIDAD:</b> obrar con responsabilidad, en consecuencia, con los deberes y derechos, acorde con el compromiso con la empresa.
+              </li>
+              <li>
+                <b>INTEGRIDAD:</b> en LECARGO se trabaja con integridad y honestidad conforme a la verdad.
+              </li>
               <li>
                 <b>RESPETO:</b> en las actividades diarias de LECARGO Se inspiran principalmente en el respeto por las personas, sus valores y creencias, respeto por los derechos y claridad en el cumplimiento y exigencias de las responsabilidades mutuas.
               </li>
@@ -110,12 +110,12 @@ include './controllers/head.php'
           </div>
         </div>
         <div class="col-md-6 ">
-          <div class="img-box">
+          <div class="img-box image-container">
             <img src="images/conductor.png" alt="">
           </div>
         </div>
       </div>
-      <div class="row mb-3">
+      <div class="row mb-5 fade-div">
         <div class="col-md-6 px-4">
           <div class="detail-box">
             <div class="heading_container">
@@ -124,12 +124,12 @@ include './controllers/head.php'
               </h2>
             </div>
             <p>
-            LECARGO tiene en su personal un patrimonio invaluable, razón de ser de la organización. Por esto vive comprometida en el desarrollo de sus trabajadores, la búsqueda de un mejor bienestar, el mejoramiento de su calidad de vida, una justa retribución por su trabajo y ofrecerles un ambiente laboral seguro y estable.
+              LECARGO tiene en su personal un patrimonio invaluable, razón de ser de la organización. Por esto vive comprometida en el desarrollo de sus trabajadores, la búsqueda de un mejor bienestar, el mejoramiento de su calidad de vida, una justa retribución por su trabajo y ofrecerles un ambiente laboral seguro y estable.
             </p>
           </div>
         </div>
         <div class="col-md-6 ">
-          <div class="img-box">
+          <div class="img-box image-container">
             <img src="images/operador_camion.png" alt="">
           </div>
         </div>
@@ -145,7 +145,6 @@ include './controllers/head.php'
   // Scripts
   include './controllers/scripts.php';
   ?>
-
 </body>
 
 </html>

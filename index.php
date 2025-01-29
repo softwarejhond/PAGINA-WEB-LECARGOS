@@ -77,7 +77,7 @@ include './controllers/head.php';
   ?>
   <!-- end service section -->
   <!-- about section -->
-  <section class="about_section layout_padding-bottom">
+  <section class="about_section layout_padding-bottom fade-div">
     <div class="container  ">
       <div class="row">
         <div class="col-md-6 px-4">
@@ -96,7 +96,7 @@ include './controllers/head.php';
           </div>
         </div>
         <div class="col-md-6 ">
-          <div class="img-box">
+          <div class="img-box image-container">
             <img src="images/about-img.png" alt="">
           </div>
         </div>
@@ -109,7 +109,7 @@ include './controllers/head.php';
 
   <!-- track section -->
 
-  <section class="track_section layout_padding">
+  <section class="track_section layout_padding fade-div">
     <div class="track_bg_box"></div>
     <div class="container">
       <div class="row">
@@ -131,7 +131,7 @@ include './controllers/head.php';
 
   <!-- client section -->
 
-  <section class="client_section layout_padding">
+  <section class="client_section layout_padding fade-div">
     <div class="container">
       <div class="heading_container">
         <h2>
