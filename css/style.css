@@ -518,7 +518,7 @@ a:focus {
   content: "";
   position: absolute;
   top: 50%;
-  width: 45px;
+  width: 78px;
   height: 70%;
   background-color: var(--color-primary);
   z-index: 3;
@@ -527,15 +527,15 @@ a:focus {
 .about_section .img-box::before {
   left: 0;
   z-index: 1;
-  -webkit-transform: translate(-50%, -50%);
-          transform: translate(-50%, -50%);
+  -webkit-transform: translate(-30%, -50%);
+          transform: translate(-30%, -50%);
 }
 
 .about_section .img-box::after {
   right: 0;
   z-index: 1;
-  -webkit-transform: translate(50%, -50%);
-          transform: translate(50%, -50%);
+  -webkit-transform: translate(30%, -50%);
+          transform: translate(30%, -50%);
 }
 
 .about_section .detail-box p {
@@ -1056,6 +1056,29 @@ a:focus {
   bottom: 40px;
   right: 40px;
   z-index: 100;
+  box-shadow: 0 0 15px rgba(0, 0, 0, 0.2);
+  transition: transform 0.2s ease-in-out;
+}
+.button-floating::before {
+  content: "";
+  position: absolute;
+  width: 80%;
+  height: 80%;
+  background-color: var(--color-whatsapp);
+  border-radius: 50%;
+  opacity: 0;
+  animation: pulse 1.5s infinite;
+}
+
+@keyframes pulse {
+  0% {
+    transform: scale(1);
+    opacity: 0.6;
+  }
+  100% {
+    transform: scale(2.5);
+    opacity: 0;
+  }
 }
 .button-floating:hover{
   background-color: var(--color-hover-whatsapp);
@@ -1102,4 +1125,24 @@ a:focus {
     bottom: 75px;
     right: 70px;
   }
+}
+
+
+.fade-div {
+  opacity: 0; /* Inicialmente invisible */
+  transform: translateY(70px); /* Inicia 50px abajo */
+  transition: opacity 1.2s ease-in-out, transform 1.4s ease-in-out;
+}
+
+.visible {
+  transform: translateY(0); /* Sube a su posición original */
+  opacity: 1; /* Visible cuando entra en el viewport */
+}
+.image-container {
+  position: absolute;
+  transition: transform 0.1s linear;
+}
+
+.image-container img {
+  width: 100%; /* Ajusta el tamaño de la imagen */
 }

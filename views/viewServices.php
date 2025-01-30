@@ -1,4 +1,4 @@
-<section class="service_section layout_padding">
+<section class="service_section layout_padding fade-div">
     <div class="service_container">
         <div class="container ">
             <div class="heading_container">
@@ -14,7 +14,7 @@
                     <div class="box ">
                         <div class="row">
                             <div class="col-md-2 ">
-                                <div class="img-box">
+                                <div class="img-box image-container">
                                     <img src="images/truck-nacional.png" alt="icono de avion" style="filter: invert(16%) sepia(52%) saturate(2694%) hue-rotate(226deg) brightness(91%) contrast(112%);">
                                 </div>
                             </div>
@@ -36,7 +36,7 @@
                     <div class="box ">
                         <div class="row">
                             <div class="col-md-2 ">
-                                <div class="img-box">
+                                <div class="img-box image-container">
                                     <img src="images/truck.png" alt="icono de barco" style="filter: invert(65%) sepia(53%) saturate(6412%) hue-rotate(347deg) brightness(93%) contrast(93%);">
                                 </div>
                             </div>
@@ -58,7 +58,7 @@
                     <div class="box ">
                         <div class="row">
                             <div class="col-md-2 ">
-                                <div class="img-box">
+                                <div class="img-box image-container">
                                     <img src="images/camion.png" alt="icono de camion" style="filter: invert(16%) sepia(52%) saturate(2694%) hue-rotate(226deg) brightness(91%) contrast(112%);">
                                 </div>
                             </div>
@@ -80,7 +80,7 @@
                     <div class="box ">
                         <div class="row">
                             <div class="col-md-2 ">
-                                <div class="img-box">
+                                <div class="img-box image-container">
                                     <img src="images/camiones.png" alt="icono de varios camiones" style="filter: invert(65%) sepia(53%) saturate(6412%) hue-rotate(347deg) brightness(93%) contrast(93%);">
                                 </div>
                             </div>

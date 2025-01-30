@@ -10,7 +10,7 @@ include './controllers/head.php'
   <?php
   include './views/header.php';
   ?>
-  <section class="contact_section layout_padding-top">
+  <section class="contact_section layout_padding-top fade-div">
     <div class="container-fluid">
       <div class="row justify-content-center">
         <div class="col-lg-4 col-md-5">
