@@ -84,7 +84,7 @@ include './controllers/head.php';
           <div class="detail-box">
             <div class="heading_container">
               <h2>
-                Acerda de <span>Nosotros</span>
+                Acerca de <span>Nosotros</span>
               </h2>
             </div>
             <p>
@@ -97,7 +97,9 @@ include './controllers/head.php';
         </div>
         <div class="col-md-6 ">
           <div class="img-box image-container">
-            <img src="images/about-img.png" alt="">
+            <div>
+              <img src="images/about-img.png" alt="">
+            </div>
           </div>
         </div>
 
@@ -116,7 +118,7 @@ include './controllers/head.php';
         <div class="col-md-6">
           <div class="heading_container">
             <h2>
-              Nuestra Politica
+              Nuestra Política
             </h2>
           </div>
           <p>

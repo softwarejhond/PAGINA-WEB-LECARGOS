@@ -22,7 +22,7 @@ include './controllers/head.php'
               </h2>
             </div>
             <p>
-              “LOGISTICA INTEGRAL LECARGO”, cuya sigla es LECARGO S.A.S, empresa con carácter de sociedad por acciones simplificada; constituida mediante documento privado del 24 de Julio del 2012 y habilitada según resolución Nº 00172 de diciembre de 2012; tiene por objeto la prestación de servicio de transporte de carga en todas sus modalidades a nivel nacional, así como las operaciones logísticas que para ello demande.
+              “LOGÍSTICA INTEGRAL LECARGO”, cuya sigla es LECARGO S.A.S, empresa con carácter de sociedad por acciones simplificada; constituida mediante documento privado del 24 de julio del 2012 y habilitada según resolución Nº 00172 de diciembre de 2012; tiene por objeto la prestación de servicio de transporte de carga en todas sus modalidades a nivel nacional, así como las operaciones logísticas que para ello demande.
               <br>
               La experiencia y trayectoria de sus socios con más de 20 años en el mercado, permite implementar nuevas tendencias y estrategias innovadoras en los procesos de abastecimiento, transporte y distribución; para atender las diferentes necesidades, de una manera eficiente y cómoda en beneficio de nuestros clientes.
               <br>
@@ -32,7 +32,9 @@ include './controllers/head.php'
         </div>
         <div class="col-md-6">
           <div class="img-box image-container">
-            <img src="images/flota.png" alt="">
+            <div>
+              <img src="images/flota.png" alt="">
+            </div>
           </div>
         </div>
       </div>
@@ -51,7 +53,9 @@ include './controllers/head.php'
         </div>
         <div class="col-md-6 ">
           <div class="img-box image-container">
-            <img src="images/persona_camion.png" alt="">
+            <div>
+              <img src="images/persona_camion.png" alt="">
+            </div>
           </div>
         </div>
       </div>
@@ -64,13 +68,15 @@ include './controllers/head.php'
               </h2>
             </div>
             <p>
-              En el 2029, Lecargo será una empresa reconocida por liderar el desarrollo optimo en la prestación de servicios logísticos y de transporte de carga por carretera personalizado, competitivo y seguro a nivel urbano, regional y nacional garantizando una comunicación asertiva y calidad en tiempos que nos consolide como la mejor elección, ofreciendo a nuestros clientes confianza y el más alto nivel de permanencia.
+              En el 2029, Lecargo será una empresa reconocida por liderar el desarrollo óptimo en la prestación de servicios logísticos y de transporte de carga por carretera personalizado, competitivo y seguro a nivel urbano, regional y nacional garantizando una comunicación asertiva y calidad en tiempos que nos consolide como la mejor elección, ofreciendo a nuestros clientes confianza y el más alto nivel de permanencia.
             </p>
           </div>
         </div>
         <div class="col-md-6 ">
           <div class="img-box image-container">
-            <img src="images/puente_camion.png" alt="">
+            <div>
+              <img src="images/puente_camion.png" alt="">
+            </div>
           </div>
         </div>
       </div>
@@ -111,7 +117,9 @@ include './controllers/head.php'
         </div>
         <div class="col-md-6 ">
           <div class="img-box image-container">
-            <img src="images/conductor.png" alt="">
+            <div>
+              <img src="images/conductor.png" alt="">
+            </div>
           </div>
         </div>
       </div>
@@ -130,7 +138,9 @@ include './controllers/head.php'
         </div>
         <div class="col-md-6 ">
           <div class="img-box image-container">
-            <img src="images/operador_camion.png" alt="">
+            <div>
+              <img src="images/operador_camion.png" alt="">
+            </div>
           </div>
         </div>
       </div>
