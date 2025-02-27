@@ -28,7 +28,9 @@ include './controllers/head.php'
         </div>
         <div class="col-md-6 ">
           <div class="img-box image-container">
-            <img src="./images/ruta_camion.png" alt="">
+            <div>
+              <img src="./images/ruta_camion.png" alt="">
+            </div>
           </div>
         </div>
       </div>
@@ -47,7 +49,9 @@ include './controllers/head.php'
         </div>
         <div class="col-md-6 ">
           <div class="img-box image-container">
-            <img src="./images/ruta.png" alt="">
+            <div>
+              <img src="./images/ruta.png" alt="">
+            </div>
           </div>
         </div>
       </div>
@@ -82,7 +86,9 @@ include './controllers/head.php'
         </div>
         <div class="col-md-6 ">
           <div class="img-box image-container">
-            <img src="./images/paisaje.png" alt="">
+            <div>
+              <img src="./images/paisaje.png" alt="">
+            </div>
           </div>
         </div>
       </div>
@@ -103,7 +109,9 @@ include './controllers/head.php'
         </div>
         <div class="col-md-6 ">
           <div class="img-box image-container">
-            <img src="./images/camion_azul.png" alt="">
+            <div>
+              <img src="./images/camion_azul.png" alt="">
+            </div>
           </div>
         </div>
       </div>
@@ -124,7 +132,9 @@ include './controllers/head.php'
         </div>
         <div class="col-md-6 ">
           <div class="img-box image-container">
-            <img src="./images/camion_ruta.png" alt="">
+            <div>
+              <img src="./images/camion_ruta.png" alt="">
+            </div>
           </div>
         </div>
       </div>
