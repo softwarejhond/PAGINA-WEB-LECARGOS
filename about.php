@@ -17,7 +17,7 @@ include './controllers/head.php'
         <div class="col-md-6 px-4">
           <div class="detail-box">
             <div class="heading_container">
-              <h2>
+            <h2 style="color: #1D1D7F;">
                 Lecargo <span>S.A.S</span>
               </h2>
             </div>
@@ -42,7 +42,7 @@ include './controllers/head.php'
         <div class="col-md-6 px-4">
           <div class="detail-box">
             <div class="heading_container">
-              <h2>
+            <h2 style="color: #1D1D7F;">
                 Misión
               </h2>
             </div>
@@ -63,7 +63,7 @@ include './controllers/head.php'
         <div class="col-md-6 px-4">
           <div class="detail-box">
             <div class="heading_container">
-              <h2>
+            <h2 style="color: #1D1D7F;">
                 Visión
               </h2>
             </div>
@@ -84,7 +84,7 @@ include './controllers/head.php'
         <div class="col-md-6 px-4">
           <div class="detail-box">
             <div class="heading_container">
-              <h2>
+            <h2 style="color: #1D1D7F;">
                 Valores
               </h2>
             </div>
@@ -127,7 +127,7 @@ include './controllers/head.php'
         <div class="col-md-6 px-4">
           <div class="detail-box">
             <div class="heading_container">
-              <h2>
+            <h2 style="color: #1D1D7F;">
                 Recursos <span>Humanos</span>
               </h2>
             </div>

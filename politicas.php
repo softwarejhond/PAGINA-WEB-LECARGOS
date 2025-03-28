@@ -17,7 +17,7 @@ include './controllers/head.php'
         <div class="col-md-6 px-4">
           <div class="detail-box">
             <div class="heading_container">
-              <h2>
+            <h2 style="color: #1D1D7F;">
                 Marco <span>Legal</span>
               </h2>
             </div>
@@ -38,7 +38,7 @@ include './controllers/head.php'
         <div class="col-md-6 px-4">
           <div class="detail-box">
             <div class="heading_container">
-              <h2>
+            <h2 style="color: #1D1D7F;">
                 Política <span>Integral</span>
               </h2>
             </div>
@@ -59,7 +59,7 @@ include './controllers/head.php'
         <div class="col-md-6 px-4">
           <div class="detail-box">
             <div class="heading_container">
-              <h2>
+            <h2 style="color: #1D1D7F;">
                 Objetivos <span>Empresariales</span>
               </h2>
             </div>
@@ -96,7 +96,7 @@ include './controllers/head.php'
         <div class="col-md-6 px-4">
           <div class="detail-box">
             <div class="heading_container">
-              <h2>
+            <h2 style="color: #1D1D7F;">
                 Capacidad para la <span>Oferta</span>
               </h2>
             </div>
@@ -119,7 +119,7 @@ include './controllers/head.php'
         <div class="col-md-6 px-4">
           <div class="detail-box">
             <div class="heading_container">
-              <h2>
+            <h2 style="color: #1D1D7F;">
                 Normas de <span>Seguridad</span>
               </h2>
             </div>

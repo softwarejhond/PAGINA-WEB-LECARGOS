@@ -3,7 +3,7 @@
         <div class="row">
             <div class="col-lg-4 col-md-5 offset-md-1">
                 <div class="heading_container">
-                    <h2>
+                <h2 style="color: #1D1D7F;">
                         Escríbenos
                     </h2>
                 </div>

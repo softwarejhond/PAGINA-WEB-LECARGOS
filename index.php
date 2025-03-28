@@ -6,6 +6,9 @@ include './controllers/head.php';
 ?>
 
 <body>
+<div id="loader">
+  <img src="images/logoOk.png" alt="Logo Lecargos" class="loader-logo">
+</div>
 <div class="hero_area">
   <?php 
   include './views/header.php'
@@ -70,7 +73,7 @@ include './controllers/head.php';
       
     </section>
 </div>
-    <!-- end slider section -->
+  <!-- end slider section -->
   <!-- service section -->
   <?php 
    include './views/viewServices.php';
@@ -78,55 +81,56 @@ include './controllers/head.php';
   <!-- end service section -->
   <!-- about section -->
   <section class="about_section layout_padding-bottom fade-div">
-    <div class="container  ">
-      <div class="row">
-        <div class="col-md-6 px-4">
-          <div class="detail-box">
-            <div class="heading_container">
-              <h2>
-                Acerca de <span>Nosotros</span>
-              </h2>
-            </div>
-            <p>
-              Lecargo es una empresa especializada en diseñar y ofrecer soluciones con servicios de logística y transporte de carga por carretera seguros, oportunos y confiables con una infraestructura moderna y que proteja el medio ambiente; para ello contar con un recurso humano y tecnológico competente, orientados a satisfacer oportunamente las necesidades y expectativas de nuestros clientes, proveedores y socios, que genere competitividad a la industria y sostenibilidad en el tiempo.
-            </p>
-            <a href="about.php">
-              Leer más
-            </a>
-          </div>
-        </div>
-        <div class="col-md-6 ">
-          <div class="img-box image-container">
-            <div>
-              <img src="images/about-img.png" alt="">
-            </div>
-          </div>
-        </div>
-
+  <div class="container  ">
+    <div class="row">
+    <div class="col-md-6 px-4">
+      <div class="detail-box">
+      <div class="heading_container">
+        <h2 style="color: #1D1D7F;">
+        Acerca de <span>Nosotros</span>
+        </h2>
+      </div>
+      <p>
+        Lecargo es una empresa especializada en diseñar y ofrecer soluciones con servicios de logística y transporte de carga por carretera seguros, oportunos y confiables con una infraestructura moderna y que proteja el medio ambiente; para ello contar con un recurso humano y tecnológico competente, orientados a satisfacer oportunamente las necesidades y expectativas de nuestros clientes, proveedores y socios, que genere competitividad a la industria y sostenibilidad en el tiempo.
+      </p>
+      <a href="about.php">
+        Leer más
+      </a>
       </div>
     </div>
+    <div class="col-md-6 ">
+      <div class="img-box image-container">
+      <div>
+        <img src="images/about-img.png" alt="">
+      </div>
+      </div>
+    </div>
+
+    </div>
+  </div>
   </section>
 
   <!-- end about section -->
 
+
   <!-- track section -->
 
   <section class="track_section layout_padding fade-div">
-    <div class="track_bg_box"></div>
-    <div class="container">
-      <div class="row">
-        <div class="col-md-6">
-          <div class="heading_container">
-            <h2>
-              Nuestra Política
-            </h2>
-          </div>
-          <p>
-            Para garantizar un servicio seguro, oportuno y confiable dirigimos como organización todas nuestras actuaciones para ser aliados estratégicos de nuestros clientes en pro de su satisfacción y fidelización.
-          </p>
-        </div>
+  <div class="track_bg_box"></div>
+  <div class="container">
+    <div class="row">
+    <div class="col-md-6">
+      <div class="heading_container">
+      <h2>
+        Nuestra Política
+      </h2>
       </div>
+      <p>
+      Para garantizar un servicio seguro, oportuno y confiable dirigimos como organización todas nuestras actuaciones para ser aliados estratégicos de nuestros clientes en pro de su satisfacción y fidelización.
+      </p>
     </div>
+    </div>
+  </div>
   </section>
 
   <!-- end track section -->
@@ -134,82 +138,82 @@ include './controllers/head.php';
   <!-- client section -->
 
   <section class="client_section layout_padding fade-div">
-    <div class="container">
-      <div class="heading_container">
-        <h2>
-          Algunos de <span>Nuestros Clientes</span>
-        </h2>
-      </div>
-      <div class="client_container">
-        <div class="carousel-wrap ">
-          <div class="owl-carousel">
-            <div class="item">
-              <div class="box">
-                <div class="detail-box">
-                  <img src="images/logosClientes/colrecicladora.png" alt="">
-                </div>
-              </div>
-            </div>
-            <div class="item">
-              <div class="box">
-                <div class="detail-box">
-                  <img src="images/logosClientes/ecoplanet.png" alt="">
-                </div>
-              </div>
-            </div>
-            <div class="item">
-              <div class="box">
-                <div class="detail-box">
-                  <img src="images/logosClientes/lukanto.png" alt="">
-                </div>
-              </div>
-            </div>
-            <div class="item">
-              <div class="box">
-                <div class="detail-box">
-                  <img src="images/logosClientes/centroaceros.png" alt="">
-                </div>
-              </div>
-            </div>
-            <div class="item">
-              <div class="box">
-                <div class="detail-box">
-                  <img src="images/logosClientes/nutrivec.png" alt="">
-                </div>
-              </div>
-            </div>
-            <div class="item">
-              <div class="box">
-                <div class="detail-box">
-                  <img src="images/logosClientes/sidoc.png" alt="">
-                </div>
-              </div>
-            </div>
-            <div class="item">
-              <div class="box">
-                <div class="detail-box">
-                  <img src="images/logosClientes/suppla.png" alt="">
-                </div>
-              </div>
-            </div>
-            <div class="item">
-              <div class="box">
-                <div class="detail-box">
-                  <img src="images/logosClientes/minerales_industriales.png" alt="">
-                </div>
-              </div>
-            </div>
-            <div class="item">
-              <div class="box">
-                <div class="detail-box">
-                  <img src="images/logosClientes/rimoplasticas.png" alt="" >
-                </div>
-              </div>
-            </div>
-          </div>
+  <div class="container">
+    <div class="heading_container">
+    <h2 style="color: #1D1D7F;">
+      Algunos de <span>Nuestros Clientes</span>
+    </h2>
+    </div>
+    <div class="client_container">
+    <div class="carousel-wrap ">
+      <div class="owl-carousel">
+      <div class="item">
+        <div class="box">
+        <div class="detail-box">
+          <img src="images/logosClientes/colrecicladora.png" alt="">
+        </div>
         </div>
       </div>
+      <div class="item">
+        <div class="box">
+        <div class="detail-box">
+          <img src="images/logosClientes/ecoplanet.png" alt="">
+        </div>
+        </div>
+      </div>
+      <div class="item">
+        <div class="box">
+        <div class="detail-box">
+          <img src="images/logosClientes/lukanto.png" alt="">
+        </div>
+        </div>
+      </div>
+      <div class="item">
+        <div class="box">
+        <div class="detail-box">
+          <img src="images/logosClientes/centroaceros.png" alt="">
+        </div>
+        </div>
+      </div>
+      <div class="item">
+        <div class="box">
+        <div class="detail-box">
+          <img src="images/logosClientes/nutrivec.png" alt="">
+        </div>
+        </div>
+      </div>
+      <div class="item">
+        <div class="box">
+        <div class="detail-box">
+          <img src="images/logosClientes/sidoc.png" alt="">
+        </div>
+        </div>
+      </div>
+      <div class="item">
+        <div class="box">
+        <div class="detail-box">
+          <img src="images/logosClientes/suppla.png" alt="">
+        </div>
+        </div>
+      </div>
+      <div class="item">
+        <div class="box">
+        <div class="detail-box">
+          <img src="images/logosClientes/minerales_industriales.png" alt="">
+        </div>
+        </div>
+      </div>
+      <div class="item">
+        <div class="box">
+        <div class="detail-box">
+          <img src="images/logosClientes/rimoplasticas.png" alt="" >
+        </div>
+        </div>
+      </div>
+      </div>
     </div>
+    </div>
+  </div>
   </section>
 
   <!-- end client section -->
@@ -222,6 +226,48 @@ include './views/footer.php';
 include './controllers/scripts.php';
 ?>
 
+<script>
+  window.addEventListener('load', function() {
+    const loader = document.getElementById('loader');
+    loader.style.opacity = '0';
+    setTimeout(() => {
+      loader.style.display = 'none';
+    }, 2000); // Espera 500ms para ocultar completamente el loader
+  });
+</script>
+
+<style>
+/* Loader styles */
+#loader {
+  position: fixed;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  background-color: #ffffff;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  z-index: 9999;
+}
+
+.loader-logo {
+  width: 300px;
+  height: auto;
+  animation: pulse 1.5s infinite;
+}
+
+@keyframes pulse {
+  0%, 100% {
+    transform: scale(1);
+    opacity: 1;
+  }
+  50% {
+    transform: scale(1.1);
+    opacity: 0.8;
+  }
+}
+</style>
 
 </body>
 

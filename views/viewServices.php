@@ -2,7 +2,7 @@
     <div class="service_container">
         <div class="container ">
             <div class="heading_container">
-                <h2>
+            <h2 style="color: #1D1D7F;">
                     Nuestros <span>Servicios</span>
                 </h2>
                 <p>
@@ -20,7 +20,7 @@
                             </div>
                             <div class="col-md-10 ">
                                 <div class="detail-box">
-                                    <h5>
+                                    <h5 style="color: #1D1D7F;">
                                         Transporte masivo y semimasivo a nivel nacional.
                                     </h5>
                                     <p>
@@ -42,7 +42,7 @@
                             </div>
                             <div class="col-md-10 ">
                                 <div class="detail-box">
-                                    <h5>
+                                <h5 style="color: #1D1D7F;">
                                         Transporte de carga por importación y exportación.
                                     </h5>
                                     <p>
@@ -64,7 +64,7 @@
                             </div>
                             <div class="col-md-10 ">
                                 <div class="detail-box">
-                                    <h5>
+                                <h5 style="color: #1D1D7F;">
                                         Distribución urbana
                                     </h5>
                                     <p>
@@ -86,7 +86,7 @@
                             </div>
                             <div class="col-md-10 ">
                                 <div class="detail-box">
-                                    <h5>
+                                <h5 style="color: #1D1D7F;">
                                         Administración de flotas
                                     </h5>
                                     <p>
