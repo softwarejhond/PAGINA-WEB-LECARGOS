@@ -88,6 +88,6 @@
 </aside>
 <aside class="options-whatsapp">
   <a href="https://wa.link/wssyh4" target="_blank" rel="Texto número de whatsapp"><i class="fa fa-whatsapp" aria-hidden="true"></i> +57 3104823766</a>
-  <a href="https://wa.link/yy1gzp" target="_blank" rel="Texto número de whatsapp"><i class="fa fa-whatsapp" aria-hidden="true"></i> +57 3216062900</a>
+  <a href="https://wa.link/yy1gzp" target="_blank" rel="Texto número de whatsapp"><i class="fa fa-whatsapp" aria-hidden="true"></i> +57 3216088623</a>
 </aside>
 
